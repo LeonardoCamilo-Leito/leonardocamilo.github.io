@@ -1,5 +1,3 @@
-[leonardo-camilo-artist.html](https://github.com/user-attachments/files/26984457/leonardo-camilo-artist.html) 
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8"/>
