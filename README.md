@@ -561,10 +561,10 @@ footer p {
 
 <!-- HERO -->
 <section id="hero">
-  <div class="hero-bg-text" aria-hidden="true">MINIMAL</div>
+  <div class="hero-bg-text" aria-hidden="true">Leito</div>
 
   <div class="hero-meta reveal">
-    DJ · Producer · Minimal / Deep Tech
+    DJ · Producer
   </div>
   <h1 class="hero-name reveal d1">Leonardo<br/>Camilo</h1>
 
@@ -746,13 +746,14 @@ footer p {
       También disponible para proyectos de producción y remixes.
     </p>
     <div class="contact-actions reveal d3">
-      <a href="mailto:hola@leonardocamilo.com" class="contact-email">
+      <a href="mailto:lcamilo656@gmail.com" class="contact-email">
         hola@leonardocamilo.com
       </a>
       <div class="social-row">
         <a href="https://www.beatport.com/es/artist/leonardo-camilo/718404" target="_blank">Beatport</a>
         <a href="https://ecoulsnd.bandcamp.com/album/future-view" target="_blank">Bandcamp</a>
         <a href="https://soundcloud.com/ecoul_snd/premiere-leonardo-camilo-future-view" target="_blank">SoundCloud</a>
+        <a href="https://www.instagram.com/leonardo_camilo_dj/" target="_blank">Instagram</a>
       </div>
     </div>
   </div>
@@ -760,8 +761,8 @@ footer p {
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2025 Leonardo Camilo — All rights reserved</p>
-  <p>Minimal / Deep Tech · Underground Electronic Music</p>
+  <p>© 2026 Leonardo Camilo — All rights reserved</p>
+  <p>More for the music than anything</p>
 </footer>
 
 <script>
