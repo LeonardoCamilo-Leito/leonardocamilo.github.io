@@ -116,7 +116,7 @@ nav {
   min-height: 100vh;
   display: flex; flex-direction: column;
   justify-content: center;
-  padding: 7 rem 3rem 4rem;
+  padding: 7rem 3rem 4rem;
   position: relative; overflow: hidden;
 }
 
